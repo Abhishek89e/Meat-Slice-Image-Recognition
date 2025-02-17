@@ -1,4 +1,4 @@
-#🥩 Meat Slice Image Recognition
+🥩 Meat Slice Image Recognition
 
 This project focuses on using Deep Learning & Computer Vision to recognize different types of meat slices, enabling automation in food quality control and processing.
 
